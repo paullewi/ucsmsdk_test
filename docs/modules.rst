@@ -1,6 +1,0 @@
-ucsmsdk
-=======
-
-.. toctree::
-
-   ucsmsdk
